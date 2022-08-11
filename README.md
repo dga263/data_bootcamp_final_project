@@ -1,5 +1,10 @@
 # data_bootcamp_final_project
 
+Project Description: Using  data from the US Customs and Border Protection and the US Border Patrol
+on monthly apprehensions, this project intends to describre, visualize, and infer the implications 
+of illegal immigration trends across the United States' borders in relation to rates of apprehension
+and Border Patrol Agency staffing policies over the past two decades.
+
 This project was completed by Diego Giuseppe Gonzalez Arciniega in partial fulfilment of ECON-UB.0232, 
 Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project.
 In particular, I have:
@@ -15,8 +20,3 @@ Submitting the same or substantially similar work in multiple courses, either in
 or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
-
-Project Description: Using  data from the US Customs and Border Protection and the US Border Patrol
-on monthly apprehensions, this project intends to describre, visualize, and infer the implications 
-of illegal immigration trends across the United States' borders in relation to rates of apprehension
-and Border Patrol Agency staffing policies over the past two decades.
